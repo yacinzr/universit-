@@ -1,0 +1,60 @@
+.nom{
+	
+	font-size: auto;
+margin-left:37px ;
+	width: 30%;	
+}
+
+.prenom{
+	margin-left: 18px  ;
+	width: 30%;
+}
+
+.imail{margin-left:10px;
+	width: 30%;
+}
+.passe
+{margin-left:60px;
+	width: 30%;
+
+}
+.fieldset1
+{float: center;
+	width: 700px;
+}
+.fieldset2
+{
+
+	width: 700px;
+}
+.tel
+
+{
+	margin-left: 10px;
+	width: 20%;
+}
+.li
+{
+	width: 325px;
+}
+body
+{
+	background-color:#A4A4A4;
+}
+
+.fild
+{
+	height: 30px;
+	width: 400px;
+}
+fieldset
+{ margin-left:310px;
+	border-color: blue;
+	float: center;
+	margin-bottom:20px;
+	margin-top: 200px;
+}
+.t1{
+	 margin-left:600px           ;
+
+}
